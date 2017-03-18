@@ -1,4 +1,4 @@
-Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird, and Graham Neubig. My work is on using bilingual data for processing endangered languages.
+Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig. My work is on using bilingual data for processing endangered languages.
 I will be submitting in the second half of 2017.
 
 When the wind blows, I may look something like this:
