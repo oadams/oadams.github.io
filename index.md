@@ -21,7 +21,7 @@ In *Proceedings of EMNLP*, 2016.
 **Distributed Vector Representations For Unsupervised Automatic Short Answer Grading**  
 Oliver Adams, Shourya Roy and Raghuram Krishnapuram.
 In *Proceedings of the 3rd Workshop on Natural Language Processing Techniques
-for Educational Applications.*, 2016.  
+for Educational Applications*, 2016.  
 [PDF](http://www.aclweb.org/anthology/W/W16/W16-49.pdf)
 
 **Learning a Translation Model from Word Lattices**  
@@ -33,7 +33,7 @@ In *Proceedings of INTERSPEECH*, 2016.
 Transcriptions**  
 Oliver Adams, Graham Neubig, Trevor Cohn and Steven Bird.
 In *Proceedings of IWSLT*, 2015.  
-[PDF](http:://workshop2015.iwslt.org/downloads/proceeding.pdf)
+[PDF](http://workshop2015.iwslt.org/downloads/proceeding.pdf)
 
 **Aikuma: A Mobile App for Collaborative Language Documentation**  
 Steven Bird, Florian Hanke, Oliver Adams and Haejoong Lee.
