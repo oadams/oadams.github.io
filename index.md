@@ -2,7 +2,7 @@ Hi there. I'm a PhD student at The University of Melbourne under the supervision
 
 When the wind blows, I may look something like this:
 
-![](https://oadams.github.io/wind.jpg =200x)
+![](https://oadams.github.io/wind_small.jpg)
 
 As per some requests, the slides for my EMNLP paper can be found [here](https://oadams.github.io/emnlp16_slides.pdf). The paper (found [PDF](https://oadams.github.io/papers/emnlp2016.pdf)
 ) won the best short paper award.
