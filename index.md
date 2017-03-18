@@ -1,4 +1,5 @@
-Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird, and Graham Neubig. My work is on using bilingual data for processing endangered languages. I'm aiming to submit around halfway through 2017.
+Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird, and Graham Neubig. My work is on using bilingual data for processing endangered languages.
+I will be submitting in the second half of 2017.
 
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
