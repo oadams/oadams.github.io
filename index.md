@@ -1,5 +1,10 @@
 Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird, and Graham Neubig. My work is on using bilingual data for processing endangered languages. I'm aiming to submit around halfway through 2017.
 
+When the wind blows, I may look something like this:
+
+![](https://oadams.github.io/wind.jpg =200x200)
+
+
 As per some requests, the slides for my EMNLP paper can be found [here](https://oadams.github.io/emnlp16_slides.pdf). The paper (found [here](http://people.eng.unimelb.edu.au/tcohn/papers/adams16emnlp.pdf)) won the best short paper award.
 
 My CV can be found [here](https://oadams.github.io/cv.pdf).
@@ -46,8 +51,4 @@ Marco Lui, Ned Letcher, Oliver Adams, Long Duong, Paul Cook and Timothy Baldwin.
 In *Proceedings of the First Workshop on Applying NLP Tools to Similar
 Languages, Varieties and Dialects*, 2014.  
 [PDF](http://anthology.aclweb.org/W/W14/W14-53.pdf)
-
-When the wind blows, I may look something like this:
-
-![](https://oadams.github.io/wind.jpg)
 
