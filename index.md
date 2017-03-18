@@ -12,6 +12,7 @@ Learning a Lexicon and Translation Model from Phoneme Lattices
 *In Proceedings of EMNLP, 2016*  
 Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do, Satoshi
 Nakamura
+[PDF](https://oadams.github.io/papers/emnlp2016.pdf)
 
 Most of my other publications can be found [here](https://scholar.google.com/citations?user=s7wr1DsAAAAJ&hl=en) on Google Scholar.
 
