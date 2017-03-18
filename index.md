@@ -8,8 +8,8 @@ My email address is my first name followed by my last name at gmail.com (all low
 
 ## Publications
 
-Cross-Lingual Word Embeddings for Low-Resource Language Modeling
-*Conference on Empirical Methods in Natural Language Processing*
+Cross-Lingual Word Embeddings for Low-Resource Language Modeling  
+*Conference on Empirical Methods in Natural Language Processing*  
 Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do, Satoshi
 Nakamura
 
