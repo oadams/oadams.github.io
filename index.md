@@ -3,8 +3,8 @@ Hi there. I'm a PhD student at The University of Melbourne under the supervision
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
 
-As per some requests, the slides for my EMNLP paper can be found [here](https://oadams.github.io/emnlp16_slides.pdf). The paper (found [PDF](https://oadams.github.io/papers/emnlp2016.pdf)
-) won the best short paper award.
+As per some requests, the slides for my EMNLP paper can be found [here](https://oadams.github.io/emnlp16_slides.pdf).
+The paper (found [here](https://oadams.github.io/papers/emnlp2016.pdf)) won the best short paper award.
 
 My CV can be found [here](https://oadams.github.io/cv.pdf).
 
