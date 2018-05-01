@@ -14,9 +14,13 @@ My email address is my first name followed by my last name at gmail.com (all low
 
 ## Publications
 
+Oliver Adams, Trevor Cohn, Graham Neubig, Hilaria Cruz, Steven Bird, Alexis Michaud. 
+To appear in *LREC 2018: 11th Language Resources and Evaluation Conference*, 2018.  
+[PDF](https://halshs.archives-ouvertes.fr/halshs-01709648v4/document)
+
 **Cross-Lingual Word Embeddings for Low-Resource Language Modeling**  
-Oliver Adams, Adam Makarucha, Graham Neubig, Steven Bird and Trevor Cohn (2017). 
-To appear in *Proceedings of EACL*, 2017.  
+Oliver Adams, Adam Makarucha, Graham Neubig, Steven Bird and Trevor Cohn. 
+In *Proceedings of EACL*, 2017.  
 [PDF](https://oadams.github.io/papers/eacl2017.pdf)
 
 **Learning a Lexicon and Translation Model from Phoneme Lattices**  
