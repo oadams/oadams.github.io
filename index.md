@@ -1,11 +1,10 @@
-Hi there. I'm a PhD student at The University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig.
-My work is on using bilingual data for processing endangered language speech.
-I will be submitting in the second half of 2017.
+Hi there. I've just recently finished my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig.
+My work has been on using bilingual data for processing endangered language speech.
 
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
 
-As per some requests, the slides for my EMNLP paper can be found [here](https://oadams.github.io/emnlp16_slides.pdf).
+As per some requests, the slides for my EMNLP 2016 talk can be found [here](https://oadams.github.io/emnlp16_slides.pdf).
 The paper (found [here](https://oadams.github.io/papers/emnlp2016.pdf)) won the best short paper award.
 
 My CV can be found [here](https://oadams.github.io/cv.pdf).
@@ -14,9 +13,15 @@ My email address is my first name followed by my last name at gmail.com (all low
 
 ## Publications
 
+**Evaluating Phonemic Transcription of Low-Resource Tonal Languages for Language Documentation**
 Oliver Adams, Trevor Cohn, Graham Neubig, Hilaria Cruz, Steven Bird, Alexis Michaud. 
 To appear in *LREC 2018: 11th Language Resources and Evaluation Conference*, 2018.  
 [PDF](https://halshs.archives-ouvertes.fr/halshs-01709648v4/document)
+
+**Automatic Understanding of Unwritten Languages**
+Oliver Adams.
+PhD Thesis, The University of Melbourne.
+[PDF](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/210811/thesis.pdf?sequence=1&isAllowed=y)
 
 **Cross-Lingual Word Embeddings for Low-Resource Language Modeling**  
 Oliver Adams, Adam Makarucha, Graham Neubig, Steven Bird and Trevor Cohn. 
