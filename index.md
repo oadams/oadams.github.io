@@ -4,9 +4,6 @@ My work has been on using bilingual data for processing endangered language spee
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
 
-As per some requests, the slides for my EMNLP 2016 talk can be found [here](https://oadams.github.io/emnlp16_slides.pdf).
-The paper (found [here](https://oadams.github.io/papers/emnlp2016.pdf)) won the best short paper award.
-
 My CV can be found [here](https://oadams.github.io/cv.pdf).
 
 My email address is my first name followed by my last name at gmail.com (all lowercase).
@@ -31,7 +28,8 @@ In *Proceedings of EACL*, 2017.
 **Learning a Lexicon and Translation Model from Phoneme Lattices**  
 Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do and Satoshi Nakamura.
 In *Proceedings of EMNLP*, 2016.  
-[PDF](https://oadams.github.io/papers/emnlp2016.pdf)
+[PDF](https://oadams.github.io/papers/emnlp2016.pdf);
+[Slides](https://oadams.github.io/emnlp16_slides.pdf)
 
 **Distributed Vector Representations For Unsupervised Automatic Short Answer Grading**  
 Oliver Adams, Shourya Roy and Raghuram Krishnapuram.
