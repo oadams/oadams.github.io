@@ -1,5 +1,8 @@
-Hi there. I've just recently finished my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig.
-My work has been on using bilingual data for processing endangered language speech.
+Hi there. I'm a postdoc at the Center for Language and Speech Processing at
+Johns Hopkins University, working with David Yarowsky. I recently finished my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig.
+
+I'm interested in multilingual and low-resource natural language processing and
+speech recognition, among other things.
 
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
