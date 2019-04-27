@@ -13,9 +13,14 @@ My email address is my first name followed by my last name at gmail.com (all low
 
 ## Publications
 
+**Massively Multilingual Adversarial Speech Recognition**
+Oliver Adams, Matthew Wiesner, Shinji Watanabe, David Yarowsky.
+In *Proc Annual Conference of the North American Chapter of the Association for Computational Linguistics*. 2019. To appear.
+[PDF](https://arxiv.org/pdf/1904.02210.pdf)
+
 **Evaluating Phonemic Transcription of Low-Resource Tonal Languages for Language Documentation**
 Oliver Adams, Trevor Cohn, Graham Neubig, Hilaria Cruz, Steven Bird, Alexis Michaud. 
-To appear in *LREC 2018: 11th Language Resources and Evaluation Conference*, 2018.  
+IN *LREC 2018: 11th Language Resources and Evaluation Conference*, 2018.  
 [PDF](https://halshs.archives-ouvertes.fr/halshs-01709648v4/document)
 
 **Automatic Understanding of Unwritten Languages**
