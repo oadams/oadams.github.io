@@ -7,7 +7,8 @@ speech recognition, among other things.
 When the wind blows, I may look something like this:
 <div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
 
-My CV can be found [here](https://oadams.github.io/cv.pdf).
+My CV can be found [here](https://oadams.github.io/cv.pdf). My Github profile
+can be found [here](https://github.com/oadams).
 
 My email address is my first name followed by my last name at gmail.com (all lowercase).
 
