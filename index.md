@@ -1,11 +1,8 @@
-Hi there. I'm a postdoc at the Center for Language and Speech Processing at
-Johns Hopkins University, working with David Yarowsky. I recently finished my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and Graham Neubig.
+Hi there. I'm a senior data scientist at Atos zData. Prior to that I was a postdoc at Johns Hopkins University, working with David Yarowsky. And prior to that I completed my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and (remotely) Graham Neubig.
 
-I'm interested in multilingual and low-resource natural language processing and
-speech recognition, among other things.
+I'm interested in natural language processing and machine learning more generally.
 
-When the wind blows, I may look something like this:
-<div style="text-align:center"><img src ="https://oadams.github.io/wind_small.jpg" /></div>
+<div style="text-align:center"><img src ="https://oadams.github.io/oliver_profile1.jpg" /></div>
 
 My CV can be found [here](https://oadams.github.io/cv.pdf). My Github profile
 can be found [here](https://github.com/oadams).
