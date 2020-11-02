@@ -2,67 +2,12 @@ Hi there. I'm a senior data scientist at Atos zData. Prior to that I was a postd
 
 I'm interested in natural language processing and machine learning more generally.
 
-<div style="text-align:center"><img src ="https://oadams.github.io/oliver_profile1.jpg" /></div>
+My CV can be found [here](https://oadams.github.io/cv.pdf).
 
-My CV can be found [here](https://oadams.github.io/cv.pdf). My Github profile
-can be found [here](https://github.com/oadams).
+My Github profile can be found [here](https://github.com/oadams).
+
+My publications can be found on my Google Scholar profile [here](https://scholar.google.com/citations?user=s7wr1DsAAAAJ&hl=en).
 
 My email address is my first name followed by my last name at gmail.com (all lowercase).
 
-## Publications
-
-**Massively Multilingual Adversarial Speech Recognition**
-Oliver Adams, Matthew Wiesner, Shinji Watanabe, David Yarowsky.
-In *Proc Annual Conference of the North American Chapter of the Association for Computational Linguistics*. 2019. To appear.
-[PDF](https://arxiv.org/pdf/1904.02210.pdf)
-
-**Evaluating Phonemic Transcription of Low-Resource Tonal Languages for Language Documentation**
-Oliver Adams, Trevor Cohn, Graham Neubig, Hilaria Cruz, Steven Bird, Alexis Michaud. 
-IN *LREC 2018: 11th Language Resources and Evaluation Conference*, 2018.  
-[PDF](https://halshs.archives-ouvertes.fr/halshs-01709648v4/document)
-
-**Automatic Understanding of Unwritten Languages**
-Oliver Adams.
-PhD Thesis, The University of Melbourne.
-[PDF](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/210811/thesis.pdf?sequence=1&isAllowed=y)
-
-**Cross-Lingual Word Embeddings for Low-Resource Language Modeling**  
-Oliver Adams, Adam Makarucha, Graham Neubig, Steven Bird and Trevor Cohn. 
-In *Proceedings of EACL*, 2017.  
-[PDF](https://oadams.github.io/papers/eacl2017.pdf)
-
-**Learning a Lexicon and Translation Model from Phoneme Lattices**  
-Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do and Satoshi Nakamura.
-In *Proceedings of EMNLP*, 2016.  
-[PDF](https://oadams.github.io/papers/emnlp2016.pdf);
-[Slides](https://oadams.github.io/emnlp16_slides.pdf)
-
-**Distributed Vector Representations For Unsupervised Automatic Short Answer Grading**  
-Oliver Adams, Shourya Roy and Raghuram Krishnapuram.
-In *Proceedings of the 3rd Workshop on Natural Language Processing Techniques
-for Educational Applications*, 2016.  
-[PDF](http://www.aclweb.org/anthology/W/W16/W16-49.pdf)
-
-**Learning a Translation Model from Word Lattices**  
-Oliver Adams, Graham Neubig, Trevor Cohn and Steven Bird.
-In *Proceedings of INTERSPEECH*, 2016.  
-[PDF](http://people.eng.unimelb.edu.au/tcohn/papers/adams16is.pdf)
-
-**Inducing Bilingual Lexicons from Small Quantities of Sentence-Aligned Phonemic
-Transcriptions**  
-Oliver Adams, Graham Neubig, Trevor Cohn and Steven Bird.
-In *Proceedings of IWSLT*, 2015.  
-[PDF](http://workshop2015.iwslt.org/downloads/proceeding.pdf)
-
-**Aikuma: A Mobile App for Collaborative Language Documentation**  
-Steven Bird, Florian Hanke, Oliver Adams and Haejoong Lee.
-In *Workshop On the Use of Computational Method in the Study of Endangered
-Languages*, 2014.  
-[PDF](http://aclweb.org/anthology/W14-2201.pdf)
-
-**Exploring Methods and Resources for Discriminating Similar Languages**  
-Marco Lui, Ned Letcher, Oliver Adams, Long Duong, Paul Cook and Timothy Baldwin.
-In *Proceedings of the First Workshop on Applying NLP Tools to Similar
-Languages, Varieties and Dialects*, 2014.  
-[PDF](http://anthology.aclweb.org/W/W14/W14-53.pdf)
-
+<div style="text-align:center"><img src ="https://oadams.github.io/oliver_profile1.jpg" /></div>
