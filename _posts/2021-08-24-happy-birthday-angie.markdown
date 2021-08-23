@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy Birthday, Angie!"
 date:   2021-08-24 00:00:00 +1000
-categories: jekyll update
+categories: climbing romance birthdays
 ---
 
 Thank you for all the good times we've had together. I look forward to many more.
