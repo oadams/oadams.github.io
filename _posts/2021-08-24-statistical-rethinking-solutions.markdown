@@ -16,3 +16,5 @@ I will update this post as I produce more solutions.
 [Chapter 2 solutions](/statistical_rethinking_solutions/ch2.html)
 
 [Chapter 3 solutions](/statistical_rethinking_solutions/ch3.html)
+
+[Chapter 4 solutions](/statistical_rethinking_solutions/ch4.html) (added 25/8/2021)
