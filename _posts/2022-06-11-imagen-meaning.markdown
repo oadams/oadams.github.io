@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Imagen and Meaning"
-date:   2021-08-24 00:00:00 +1000
-categories: statistics python
+date:   2022-06-11 00:00:00 +1000
+categories: machine-learning
 ---
 Imagen is a new state of the art text-image model. [Website](https://imagen.research.google/). [Paper](https://arxiv.org/abs/2205.11487).
 
@@ -13,3 +13,5 @@ This immediately reminded me of the debate regarding form and meaning in large l
 > This raises the question: When, or from where, did O learn the meaning of the word “lavender”? It’s hard for me to accept any answer other than “partly underwater, and partly on land.”
 
 Imagen seems in some ways to be a concrete instantiation of this argument. By analogy the frozen language model is the purely text-based knowledge the octopus has prior to any exposure to images. The text-image modeling component on the other hand is like the octopus’s first exposure to color. The paper indicates that the overall model does better because it has a bigger language model. For example, Imagen did better than DALL-E 2 at correctly understanding subject&ndash;object relationships in some settings. See the example images below generated from the prompt ‘a panda making latte art’. The four images on the left are from Imagen, the four on the right from DALL-E 2. When, or from where, did the model learn the meaning of the word ‘make’ and the associated subject&ndash;object relationship? It’s hard for me to accept any answer other than “partly from pure text, partly from text&ndash;image mappings”.
+
+<div style="text-align:center"><img src ="https://oadams.github.io/pandas.png"/></div>
