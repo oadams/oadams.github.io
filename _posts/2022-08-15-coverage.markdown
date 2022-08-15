@@ -1,4 +1,9 @@
-# A mindful attitude to code coverage
+---
+layout: post
+title:  "A Mindful Attitude to Code Coverage"
+date:   2022-08-15 00:00:00 +1000
+categories: python programming testing
+---
 
 I had an insightful experience playing with code coverage the other day. I was setting up [nox](https://nox.thea.codes/en/stable/index.html) to test code locally with pytest before pushing it. I decided as part of this setup to use [coverage](https://coverage.readthedocs.io) to give information on what lines of the source code are covered by tests.
 
