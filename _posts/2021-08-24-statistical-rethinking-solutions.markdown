@@ -11,10 +11,14 @@ I've been reading Richard McElreath's [Statistical Rethinking (2nd edition)](htt
 
 In my solutions I build upon the very [Python/pymc3 ports](https://github.com/pymc-devs/resources/tree/master/Rethinking_2) of the code examples in the book. Since the problems are designed to practice concepts learnt in their respective chapters, I have ended up making heavy use of the code from that repository, since their code frequently forms the scaffold to solutions to the problems.
 
-I will update this post as I produce more solutions.
+I will update this post as I produce more solutions. Note that since producing these solutions was a
+learning exercise and not subject to thorough review, I can't be sure of the correctness of all the
+answers.
 
 [Chapter 2 solutions](/statistical_rethinking_solutions/ch2.html)
 
 [Chapter 3 solutions](/statistical_rethinking_solutions/ch3.html)
 
 [Chapter 4 solutions](/statistical_rethinking_solutions/ch4.html) (added 25/8/2021)
+
+[Chapter 5 solutions](/statistical_rethinking_solutions/ch5.html) (completed 27/8/2021; but only added 24/10/2022)
