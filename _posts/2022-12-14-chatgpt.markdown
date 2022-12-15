@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Selected ChatGPT Conversations"
+date:   2022-12-14 00:00:00 +1000
+categories: machine-learning
+---
+
+Ollie: Write a rap battle between Emily Bender and Thomas Dietterich in which Emily asserts that meaning cannot be gleaned from form alone and that ‘understanding’ requires real world interaction. Thomas Dietterich argues that ‘understanding’ sits on a spectrum and is more nuanced.
+
+ChatGPT:
+
+Emily:
+
+I’m Emily Bender and I’ll tell you why
+You can’t just look at form, you need to ask “why?”
+
+To truly understand, you need real world interaction
+Just looking at form is a mere abstraction
+
+Sure, it’s important to analyze and decode
+But without context, your understanding is void
+
+Thomas:
+
+You make a good point, Emily, but let me add
+Understanding isn’t just black and white, it’s not so bad
+
+It’s true that context is crucial, no doubt
+But form plays a role, there’s no need to shout
+
+Understanding sits on a spectrum, it’s not just one thing
+It’s a combination of factors, a complex weaving
+
+So let’s not throw form aside, let’s not be hasty
+Let’s consider all aspects, let’s not be too flashy
+
+In the end, it’s up to us to find the meaning
+And with a little bit of effort, we can glean it, even without seeing
+
+Ollie: Continue the rap battle. Dietterich uses ChatGPT as a proof-by-construction to support his claim. Emily rejects this and claims ChatGPT is a statistical parrot.
+
+ChatGPT:
+
+Thomas:
+
+You may say form is nothing, just a facade
+But let me introduce you to ChatGPT, a bit of code
+
+This AI can understand and generate language
+Proving that form does play a role in understanding
+
+So don’t discount form, don’t brush it aside
+It’s an important factor, and ChatGPT is a prime example to abide
+
+Emily:
+
+You may have a point, but ChatGPT is just a tool
+A statistical parrot, it’s not a living, breathing fool
+
+Yes, it can generate language, but it lacks real meaning
+It’s just a bunch of words, arranged in a particular leaning
+
+True understanding comes from experience and interaction
+Not from just looking at form, that’s just a mere abstraction
+
+So let’s not get carried away, let’s not be fooled
+Real understanding comes from the real world, not some AI tool
