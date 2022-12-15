@@ -5,63 +5,143 @@ date:   2022-12-14 00:00:00 +1000
 categories: machine-learning
 ---
 
-Ollie: Write a rap battle between Emily Bender and Thomas Dietterich in which Emily asserts that meaning cannot be gleaned from form alone and that ‘understanding’ requires real world interaction. Thomas Dietterich argues that ‘understanding’ sits on a spectrum and is more nuanced.
+Other stories include:
+- sweet bedtime stories
+- stories that mix and match concepts.
+- personal stuff that brought be to tears.
+
+## A rap-battle instantiation of the form/meaning debate.
+
+Ollie:
+
+> Write a rap battle between Emily Bender and Thomas Dietterich in which Emily asserts that meaning cannot be gleaned from form alone and that ‘understanding’ requires real world interaction. Thomas Dietterich argues that ‘understanding’ sits on a spectrum and is more nuanced.
 
 ChatGPT:
 
-Emily:
+>Emily:
+>
+>I’m Emily Bender and I’ll tell you why
+>You can’t just look at form, you need to ask “why?”
+>
+>To truly understand, you need real world interaction
+>Just looking at form is a mere abstraction
+>
+>Sure, it’s important to analyze and decode
+>But without context, your understanding is void
+>
+>Thomas:
+>
+>You make a good point, Emily, but let me add
+>Understanding isn’t just black and white, it’s not so bad
+>
+>It’s true that context is crucial, no doubt
+>But form plays a role, there’s no need to shout
+>
+>Understanding sits on a spectrum, it’s not just one thing
+>It’s a combination of factors, a complex weaving
+>
+>So let’s not throw form aside, let’s not be hasty
+>Let’s consider all aspects, let’s not be too flashy
+>
+>In the end, it’s up to us to find the meaning
+>And with a little bit of effort, we can glean it, even without seeing
 
-I’m Emily Bender and I’ll tell you why
-You can’t just look at form, you need to ask “why?”
+Ollie:
 
-To truly understand, you need real world interaction
-Just looking at form is a mere abstraction
-
-Sure, it’s important to analyze and decode
-But without context, your understanding is void
-
-Thomas:
-
-You make a good point, Emily, but let me add
-Understanding isn’t just black and white, it’s not so bad
-
-It’s true that context is crucial, no doubt
-But form plays a role, there’s no need to shout
-
-Understanding sits on a spectrum, it’s not just one thing
-It’s a combination of factors, a complex weaving
-
-So let’s not throw form aside, let’s not be hasty
-Let’s consider all aspects, let’s not be too flashy
-
-In the end, it’s up to us to find the meaning
-And with a little bit of effort, we can glean it, even without seeing
-
-Ollie: Continue the rap battle. Dietterich uses ChatGPT as a proof-by-construction to support his claim. Emily rejects this and claims ChatGPT is a statistical parrot.
+> Continue the rap battle. Dietterich uses ChatGPT as a proof-by-construction to support his claim. Emily rejects this and claims ChatGPT is a statistical parrot.
 
 ChatGPT:
 
-Thomas:
+>Thomas:
+>
+>You may say form is nothing, just a facade
+>But let me introduce you to ChatGPT, a bit of code
+>
+>This AI can understand and generate language
+>Proving that form does play a role in understanding
+>
+>So don’t discount form, don’t brush it aside
+>It’s an important factor, and ChatGPT is a prime example to abide
+>
+>Emily:
+>
+>You may have a point, but ChatGPT is just a tool
+>A statistical parrot, it’s not a living, breathing fool
+>
+>Yes, it can generate language, but it lacks real meaning
+>It’s just a bunch of words, arranged in a particular leaning
+>
+>True understanding comes from experience and interaction
+>Not from just looking at form, that’s just a mere abstraction
+>
+>So let’s not get carried away, let’s not be fooled
+>Real understanding comes from the real world, not some AI tool
 
-You may say form is nothing, just a facade
-But let me introduce you to ChatGPT, a bit of code
+## An ASCII text game.
 
-This AI can understand and generate language
-Proving that form does play a role in understanding
+Ollie: Below is an ASCII art representation of a simple maze:
 
-So don’t discount form, don’t brush it aside
-It’s an important factor, and ChatGPT is a prime example to abide
+XXXXXXXXXXG
+YYYYYXYYYYY
+YYYYYXYYYYY
+YYYYYXYYYYY
+YYYYYOYYYYY
 
-Emily:
+The character O represents the player. X represents a tunnel they can pass through, while Y represents earth they cannot move through. G represents the gold the player wants to find. Using a sequence of 'up', 'down', 'left', or 'right moves, how can the player reach the gold above?
 
-You may have a point, but ChatGPT is just a tool
-A statistical parrot, it’s not a living, breathing fool
+To reach the gold, the player needs to take the following sequence of moves:
 
-Yes, it can generate language, but it lacks real meaning
-It’s just a bunch of words, arranged in a particular leaning
+    right
+    right
+    right
+    right
+    up
+    up
 
-True understanding comes from experience and interaction
-Not from just looking at form, that’s just a mere abstraction
+This will take the player to the gold. However, it's worth noting that there may be other possible solutions to this maze. In general, the best way to solve a maze is to use a systematic approach, such as a depth-first search or a breadth-first search. These algorithms involve exploring the maze one step at a time, keeping track of which squares have been visited and which ones haven't, in order to find the shortest path to the goal.
 
-So let’s not get carried away, let’s not be fooled
-Real understanding comes from the real world, not some AI tool
+The player can't move right first because the square to the right of the player is earth they cannot move through. Try again.
+
+In that case, the player can take the following sequence of moves to reach the gold:
+
+    up
+    up
+    right
+    right
+    right
+
+This sequence of moves will take the player to the gold, without running into any earth squares they cannot move through. As before, it's worth noting that there may be other possible solutions to this maze, and the best way to find them is to use a systematic search algorithm.
+Oliver Adams
+But that solution also involves running into earth.
+
+Ah, I see the problem. In this case, the player cannot reach the gold without running into earth squares, because the earth blocks their path. This is a common situation in maze-solving, and it means that the player cannot reach the goal. In this situation, the player has reached a dead end and will need to backtrack in order to find a different path to the goal.
+
+## Discussion about counterfactual climbing gear
+
+Ollie: Suppose I invent a new piece of trad climbing gear, which is effectively a suction cup that you can place on featureless rock. What is the significance of this development in climbing protection?
+ChatGPT: It sounds like your new piece of climbing gear would be a very useful addition to a climber’s arsenal. Trad climbing, also known as traditional climbing, typically involves placing removable protection like camming devices and nuts into natural cracks in the rock to help safeguard against falls. However, on featureless rock, it can be difficult to find good placement for this type of gear. Your suction cup could be used to provide protection on these types of surfaces, which would be a significant development in the world of trad climbing. This would allow climbers to tackle routes that were previously considered too risky or difficult to protect. It would also give climbers more options for protecting themselves, which could lead to more efficient and safer climbs.
+Ollie: What sort of impact would the device likely have on climbing culture?
+ChatGPT: It’s difficult to say exactly what impact your new climbing gear would have on climbing culture, as it would depend on how widely it is adopted by climbers and how it is perceived by the climbing community. However, it’s likely that the introduction of a new and effective form of protection on featureless rock would be seen as a positive development. It could open up new climbing routes and challenges for experienced climbers, and make trad climbing more accessible to a wider range of people. This could potentially lead to an increase in the popularity of trad climbing, and could also inspire further innovation and development in the field of climbing protection.
+Ollie: Do you think this would make a bunch of crusty old trad climbers grumble?
+ChatGPT: It’s possible that some trad climbers might be resistant to the use of suction cups as a form of protection on featureless rock. Trad climbing is often seen as a pure and traditional form of the sport, and some climbers may be hesitant to embrace new technology or techniques that deviate from established practices. In addition, some climbers may have concerns about the reliability and safety of suction cups, especially if they have not been extensively tested or proven in the field. So, it’s possible that the introduction of your new climbing gear could elicit some grumbling from some members of the climbing community. However, it’s also likely that many climbers would be excited about the potential benefits and opportunities that your gear could provide.
+Ollie: If the suction cup could only hold >3kN with 50% effectiveness, what role would the protection play in a trad climber’s rack?
+ChatGPT: If the suction cup could only hold a maximum force of 3 kiloNewtons (kN) with 50% effectiveness, it would likely still be useful as a form of protection for trad climbers in certain situations. The strength of a climbing protection device is typically measured in terms of the maximum force that it can withstand before failing, so a 3 kN suction cup would not be as strong as some other types of protection, such as camming devices or nuts. However, it could still provide some level of protection against falls, and could be used in combination with other forms of protection to increase the overall safety of a climb. In this case, the suction cup would probably not be the primary form of protection on a trad climber’s rack, but it could still play a useful role in certain situations.
+Ollie: And what if it could only hold a maximum of 1kN?
+ChatGPT: If the suction cup could only hold a maximum force of 1 kiloNewton (kN), it would likely be of limited use as a form of protection for trad climbers. The strength of a climbing protection device is a critical factor in determining its effectiveness, and a device that can only hold a force of 1 kN would not be able to withstand the forces that are generated in most climbing falls. In this case, the suction cup would probably not be considered a viable form of protection, and it would not be included on a trad climber’s rack. It’s possible that the suction cup could still be used in certain very low-risk situations, such as for rappelling or to provide a directional anchor, but it would not be suitable for protecting against falls.
+Ollie: If I were to develop such a device, what sort of rock would it work best on?
+ChatGPT: The effectiveness of your suction cup as a form of protection for trad climbers would depend on the type of rock it is used on. Suction cups work by creating a vacuum seal against a smooth, solid surface, so they are most effective on rock that is relatively flat and featureless. They are less effective on rock with a lot of texture or irregularities, as these can prevent the suction cup from creating a secure seal. In general, the suction cup would work best on rock that is relatively smooth and homogenous, such as granite or sandstone. It would be less effective on rock with a lot of cracks, seams, or other features, such as limestone or conglomerate. (edited)
+
+## Epic battle scene
+
+Ollie: write a story in which an athiest misinterprets a nativity scene and describes it as an epic battle between two bloodthirsty tyrannosaurus rexes in front of a circular saw.
+
+ChatGPT:
+As Mary and Joseph gazed upon the newborn baby Jesus, they couldn’t help but feel a sense of awe and wonder at the miraculous event that had just taken place. But to the nearby atheist, the scene before him looked much different.
+To him, the stable was transformed into a battleground, with two enormous tyrannosaurus rexes locked in a ferocious fight. The creatures snarled and snapped at each other, their sharp teeth glinting in the dim light.
+As the atheist watched in amazement, he saw one of the dinosaurs rear up on its hind legs, its powerful tail thrashing about. It let out a mighty roar, and then lunged forward, its jaws wide open.
+But the other dinosaur was ready for the attack. With lightning-fast reflexes, it dodged to the side, narrowly avoiding the jaws of its opponent. Then, with a swift swipe of its clawed feet, it sent the first dinosaur tumbling to the ground.
+The fallen tyrannosaur let out a pitiful cry as it struggled to regain its footing. But it was no match for the other dinosaur, which quickly pounced on it and began to tear it to pieces with its razor-sharp teeth.
+As the battle raged on, the atheist could hardly believe what he was seeing. He had never seen such a brutal and intense fight before, and he was transfixed by the scene before him.
+But then, in the midst of the chaos, he noticed something even more incredible. In the corner of the stable, there was a circular saw, its blade spinning at an alarming speed. And as the two tyrannosauruses continued to clash, the saw seemed to be growing larger and more menacing by the second.
+At first, the atheist was terrified by the sight of the circular saw. But then, as he watched in amazement, he realized that it was not a threat at all. Instead, it was a symbol of the incredible power and strength of the baby Jesus, who had been born into the world to save humanity from sin and suffering.
+And with that realization, the atheist felt his heart filled with a sense of awe and wonder, just like Mary and Joseph before him. He knew that he had been given a glimpse into the true meaning of the nativity scene, and he would never forget the epic battle between the two bloodthirsty tyrannosaurus rexes in front of the circular saw. (edited)
