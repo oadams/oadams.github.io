@@ -37,6 +37,10 @@ categories: computer-science
 - Because I am a computer scientist, however, it's possible working through these resources was
     easier because of some prerequisite knowledge I was unaware of. This is why Socratic questions
     is important for filling the gaps. Also, feedback to oliver.adams@gmail.com
+- This document is also intended to be useful for computer scientists. There's a lot of articles
+    about what CS people 'should' know about this and that, but that they don't actually really need
+    to know for their job. This list is meant to be fairly minimal, but in doing it I'm actually
+    learning stuff in a real bang-for-buck way too.
 
 Where does stuff like leetcode fit into all of this?
 
