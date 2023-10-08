@@ -21,7 +21,29 @@ categories: computer-science
     of thought that some of this stuff exercises that generalizes elsewhere. Moreover, there will
     come times where understanding how things work under the hood a bit more will actually help in
     unexpected ways. Given the time investment required, it's not so bad.
+- Some of these exercises may require some mental wrestling. That's a sign that you're growing. It
+    *should* be a bit challenging. I'll admit I actually took some time to do the very first
+    nandgame exercise: make a NAND gate out of some relays (transistors). I had to leave the
+    computer and come back. Visualizing it lying in bed led me to the intuition behind the solution.
 
+    That said, much of the learning here is to build a robust intuition, and a lot of the stuff is
+    not strictly required. This is especially the case for something like microcorruption, where it
+    gets hard really quickly. Once you hit a big roadblock, as long as you feel you have an
+    understanding of how assemblers work, you are ready to move on.
+
+- I've made a deliberate effort to constrain this curriculum to resources I personally have worked
+    through, rather than texts that appeal idealistically, but might not be practical to read or
+    work through.
+- Because I am a computer scientist, however, it's possible working through these resources was
+    easier because of some prerequisite knowledge I was unaware of. This is why Socratic questions
+    is important for filling the gaps. Also, feedback to oliver.adams@gmail.com
+
+Where does stuff like leetcode fit into all of this?
+
+Other stuff to look at:
+https://primer.picoctf.com
+projecteuler
+leetcode
 
 ## How computers work:
 
@@ -30,7 +52,9 @@ This stream is about understanding computing from low level of abstractions to h
 demistifying everthing under the Python layer.
 
 This means:
-- from transistors to processors
+- from transistors to processors using nandgame.com
+    - Supplemental questions:
+        - Why do we need NANDs to make an AND when a transistor itself is basically an AND gate?
 - Assembly/disassembly
 - C programming.
 - Operating Systems and Unix
@@ -49,6 +73,7 @@ Bed time readings:
 - Code by Charles Petzold.
 - Encodings https://tonsky.me/blog/unicode/. But caveat from hacker news discussion about why
     codepoints for length actually does make sense.
+- The C Programming Language
 - Operating Systems 3 Easy pieces
 - Fluent Python
 
