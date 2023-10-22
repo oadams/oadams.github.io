@@ -73,7 +73,35 @@ Activities
 - https://www.nandgame.com/
 - https://microcorruption.com
 
-Bed time readings:
+### Nandgame:
+
+TODO: Discuss.
+
+### MicroCorruption:
+
+This is a hands-on gamified way to become intimately acquianted with assembly. It uses the Texas
+Instruments MSP430 family of CPUs. These are a bit simpler to get your head around than a CPU with
+an x86-64 instruction set, but they share the same core fundamentals.
+
+These exercises are quite difficult. Certainly this curriculum doesn't suggest that you need to do
+them all. The goal of this step in the learning is to get a sense for assembly, and how CPUs work
+with instructions. Getting a sense of how program counters, stack pointers, registers, opcodes all
+work is the goal. Realistically after the first few challenges you'll have a decent sense and can
+move on. Unless you're really enjoying it of course, in which case continue.
+
+Some things that will be useful to know
+- Hex (base 16) number representations.
+- Endianness
+- How things are addressed with bytes.
+
+General tips:
+- Determine the objective and then work back from there, getting a sense of dependencies along the
+  way.
+
+Estimated time. Perhaps a few sessions.
+
+
+### Bed time readings:
 - Code by Charles Petzold.
 - Encodings https://tonsky.me/blog/unicode/. But caveat from hacker news discussion about why
     codepoints for length actually does make sense.
