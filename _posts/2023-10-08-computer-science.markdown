@@ -100,6 +100,10 @@ General tips:
 
 Estimated time. Perhaps a few sessions.
 
+Question after you do some of these exercises: Do you think you could write software to
+automatically determine a password to enter? Hint: the answer is intimately related to the halting
+problem, which we'll discuss in the theoretical computer science stream.
+
 
 ### Bed time readings:
 - Code by Charles Petzold.
