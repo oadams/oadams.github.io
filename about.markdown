@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi there. I'm a senior data scientist at Atos zData. Prior to that I was a postdoc at Johns Hopkins University, working with David Yarowsky. And prior to that I completed my PhD at the University of Melbourne under the supervision of Trevor Cohn, Steven Bird and (remotely) Graham Neubig.
